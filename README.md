@@ -94,6 +94,8 @@ java -cp src Main
 
 Screenshots demonstrating the program output are included in the `docs/screenshots` directory.
 
+![App Screenshot](docs/screenshots/Снимок%20экрана%202025-12-17%20215650.png)
+
 They show:
 
 * Printed student details
