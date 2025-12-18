@@ -17,7 +17,7 @@ public class Course {
         if (index >= 0 && index < students.length) {
             students[index] = s;
         } else {
-            System.out.println("Error: invalid index");
+            System.out.println("Error: invalid index!");
         }
     }
 
