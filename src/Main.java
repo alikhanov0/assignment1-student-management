@@ -25,11 +25,11 @@ public class Main {
 
         // Output Students
         for (Student s : students) {
-            System.out.println(s);
+            System.out.println(s.toString());
         }
 
         // Data Proccessing Tasks
-        Course course = new Course("OOP Java", "Aidana Aidynkyzy", 5);
+        Course course = new Course("OOP", "Aidana Aidynkyzy", 5);
         for (int i = 0; i < students.length; i++) {
             course.addStudent(students[i], i);
         }
