@@ -29,7 +29,7 @@ public class Main {
         }
 
         // Data Proccessing Tasks
-        Course course = new Course("OOP", "Aidana Aidynkyzy", 5);
+        Course course = new Course("Object Oriented Programming", "Aidana Aidynkyzy", 5);
         for (int i = 0; i < students.length; i++) {
             course.addStudent(students[i], i);
         }
