@@ -69,7 +69,7 @@ public class Student {
                 "name='" + name + '\'' +
                 ", id='" + id + '\'' +
                 ", major='" + major + '\'' +
-                ", gpa=" + gpa +
+                ", GPA=" + gpa +
                 ", credits=" + credits +
                 '}';
     }
